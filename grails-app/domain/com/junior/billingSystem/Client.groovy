@@ -1,3 +1,4 @@
+package com.junior.billingSystem
 
 class Client {
     String name
